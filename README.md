@@ -5,9 +5,9 @@ The objective of this project is to start familiarizing with the SQL language. F
 
 For this project, we are going to create a database for a computer store, generate different tables within the database, and load data into these tables.
 
-Once the database is ready, we will perform different types of queries:
+* Once the database is ready, we will perform different types of queries:
 
- ## Query on a single table
+  Query on a single table
   
   Inner join query (multitable composition)
   
