@@ -7,7 +7,7 @@ For this project, we are going to create a database for a computer store, genera
 
 Once the database is ready, we will perform different types of queries:
 
-  Query on a single table
+ *Query on a single table
   
   Inner join query (multitable composition)
   
