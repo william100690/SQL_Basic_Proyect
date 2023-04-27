@@ -1,7 +1,7 @@
 # SQL_Basic_Proyect
 
 
-The objective of this project is to start familiarizing with the SQL language. For this purpose, we will use the MySQL relational database management syste to develop the project.
+The objective of this project is to start familiarizing with the SQL language. For this purpose, we will use the MySQL relational database management system to develop the project.
 
 For this project, we are going to create a database for a computer store, generate different tables within the database, and load data into these tables.
 
