@@ -16,10 +16,15 @@ Once the database is ready, we will perform different types of queries:
  * Summary queries
   
  * Subqueries with the WHERE clause
-   **Subqueries with basic comparison operators
-   **Subqueries with ALL and ANY
-   **Subqueries with IN and NOT IN
-   **Subqueries with EXISTS and NOT EXISTS
-   **Correlated subqueries
+ 
+   *Subqueries with basic comparison operators
+   
+   *Subqueries with ALL and ANY
+   
+   *Subqueries with IN and NOT IN
+   
+   *Subqueries with EXISTS and NOT EXISTS
+   
+   *Correlated subqueries
     
  * Subqueries with the HAVING clause
