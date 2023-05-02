@@ -26,5 +26,3 @@ Once the database is ready, we will perform different types of queries:
    *Subqueries with EXISTS and NOT EXISTS
    
    *Correlated subqueries
-    
- * Subqueries with the HAVING clause
